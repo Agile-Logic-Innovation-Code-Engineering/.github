@@ -77,8 +77,6 @@ Acts as the entry point of the entire ALICE ecosystem.
 
 Core responsibilities:
 
-* Application launcher
-* Dashboard
 * Notifications
 * Module management
 * Central configuration
